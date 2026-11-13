@@ -13,7 +13,7 @@
   <img src="./atelier/languages.2b37818e.svg" width="49%" alt="Top languages"/>
 </p>
 
-<p align="center"><img src="./atelier/activity.f86550f1.svg" width="100%" alt="Contribution activity"/></p>
+<p align="center"><img src="./atelier/activity.fcc40bf3.svg" width="100%" alt="Contribution activity"/></p>
 
 <p align="center">
   <a href="https://github.com/Megawy/PulseReserve"><img src="./atelier/repo-1.d43cef2b.svg" width="49%" alt="PulseReserve"/></a>
@@ -22,6 +22,6 @@
   <a href="https://github.com/Megawy/Appointment"><img src="./atelier/repo-4.b7208ae5.svg" width="49%" alt="Appointment"/></a>
 </p>
 
-<p align="center"><img src="./atelier/footer.8680bfbb.svg" width="100%" alt="Footer"/></p>
+<p align="center"><img src="./atelier/footer.2567f090.svg" width="100%" alt="Footer"/></p>
 
 <!-- readme-atelier:end -->
